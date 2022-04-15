@@ -20,18 +20,18 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <!-- Ícones das linguagens -->
 <!-- Java -->
 <a href="[https://web.dio.me/track/java-developer]">
-<img src="./img/java.png" alt=" - Java Developer" tittle="Java" width="90" height="90">
+<img src="https://hermes.digitalinnovation.one/tracks/f6608227-3917-416e-91e2-6cddaf116bf8.png" alt=" - Java Developer" tittle="Java" width="90" height="90">
 </a>
  
 <!-- HTML Web Developer -->
 <a href="[https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ec]">
-<img src="./img/html5dio.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
+<img src="https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
 </a>
 
 <!-- gft-start-4-Java -->
 
 <a href="[https://web.dio.me/track/gft-start-4-java]">
-<img src="./img/gft.png" alt=" - GFT Start #4 Java" tittle="GFT" width="90" height="90">
+<img src="https://hermes.digitalinnovation.one/tracks/f8bc60f2-9ca1-4389-be8b-dd0a18827f8c.png" alt=" - GFT Start #4 Java" tittle="GFT" width="90" height="90">
 </a>
   
 <!-- GFT - Quality Assurance#1 -->

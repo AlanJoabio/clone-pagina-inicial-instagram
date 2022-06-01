@@ -15,9 +15,9 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 <a href="./Instagram">Veja o trabalho como ficou - Click aqui</a>
  
-
+<p>
 ### Os bootcamps que estou estudando e buscando novos desafios na [Digital Innovation One](https://digitalinnovation.one/).
- </p>
+</p>
   
 <p align="center">
 <!-- Ícones das linguagens -->
@@ -28,7 +28,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
  
 <!-- HTML Web Developer -->
 <a href="[https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ec]">
-<img src="https://github.com/AlanJoabio/aula_bootstrap/blob/main/img/html5dio.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
+<img src="https://github.com/AlanJoabio/clone-pagina-inicial-instagram/Instagram/img/html.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
 </a>
 
 <!-- gft-start-4-Java -->

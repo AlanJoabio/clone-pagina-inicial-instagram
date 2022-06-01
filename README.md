@@ -12,12 +12,12 @@ Desafio de Projeto da DIO
 </p>
 
 Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira, incluir  as atividades da Digital Innovation One.
+</p>
 
 <a href="./Instagram">Veja o trabalho como ficou - Click aqui</a>
+
  
-<p>
 ### Os bootcamps que estou estudando e buscando novos desafios na [Digital Innovation One](https://digitalinnovation.one/).
-</p>
   
 <p align="center">
 <!-- Ícones das linguagens -->

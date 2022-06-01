@@ -28,7 +28,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
  
 <!-- HTML Web Developer -->
 <a href="[https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ec]">
-<img src="https://github.com/AlanJoabio/clone-pagina-inicial-instagram/html.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
+<img src="./html.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
 </a>
 
 <!-- gft-start-4-Java -->
